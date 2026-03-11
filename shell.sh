@@ -2,6 +2,7 @@
 
 # This is a simple shell script example
 
+
 echo "Hello! Welcome to my shell script."
 
 # Ask user name
